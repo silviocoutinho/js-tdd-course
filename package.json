@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "JS TDD Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silviocoutinho/js-tdd-course.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Silvio F. Coutinho <silviofc79@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silviocoutinho/js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/silviocoutinho/js-tdd-course#readme"
+}
